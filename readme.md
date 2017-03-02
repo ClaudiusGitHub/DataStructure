@@ -2,4 +2,5 @@
 
 |   Ëã·¨  |     ·ÖÀà      |  ÓïÑÔ   |
 |:-------:|:--------------|:-------:|
-|[Ï£¶ûÅÅĞò]() |ÅÅĞòËã·¨|java|
+|[Ï£¶ûÅÅĞò](https://github.com/ClaudiusGitHub/DataStructure/tree/master/java/shellSort) |ÅÅĞòËã·¨|java|
+|[¶ÑÅÅĞò](https://github.com/ClaudiusGitHub/DataStructure/tree/master/java/heapSort) |ÅÅĞòËã·¨|java|
