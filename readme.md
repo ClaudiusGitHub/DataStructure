@@ -5,3 +5,4 @@
 |[Ï£¶ûÅÅĞò](https://github.com/ClaudiusGitHub/DataStructure/tree/master/java/shellSort) |ÅÅĞòËã·¨|java|
 |[¶ÑÅÅĞò](https://github.com/ClaudiusGitHub/DataStructure/tree/master/java/heapSort) |ÅÅĞòËã·¨|java|
 |[¹é²¢ÅÅĞò](https://github.com/ClaudiusGitHub/DataStructure/tree/master/java/mergingSort) |ÅÅĞòËã·¨|java|
+|[¿ìËÙÅÅĞò](https://github.com/ClaudiusGitHub/DataStructure/tree/master/java/quickSort) |ÅÅĞòËã·¨|java|
