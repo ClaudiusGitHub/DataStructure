@@ -6,3 +6,4 @@
 |[堆排序](https://github.com/ClaudiusGitHub/DataStructure/tree/master/java/heapSort) |排序算法|java|
 |[归并排序](https://github.com/ClaudiusGitHub/DataStructure/tree/master/java/mergingSort) |排序算法|java|
 |[快速排序](https://github.com/ClaudiusGitHub/DataStructure/tree/master/java/quickSort) |排序算法|java|
+|[迪杰斯特拉](https://github.com/ClaudiusGitHub/DataStructure/tree/master/java/Dijksta) |最短路径|java|
